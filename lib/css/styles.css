@@ -32,7 +32,7 @@ body {
 
 .main {
   grid-area: main;
-  background-color: #e5d25c;
+  background-color: #e77b9c;
 }
 
 .main-header {
@@ -107,7 +107,7 @@ body {
 .annotation-box {
   padding: 10px;
   font-size: 15px;
-  border: 1px solid grey;
+  border: 1px solid #fdfdfd;
   float: left;
   width: 69%;
   background: #f1f1f1;
@@ -120,7 +120,7 @@ body {
   background: #1ea6ff;
   color: white;
   font-size: 15px;
-  border: 1px solid grey;
+  border: 1px solid #ffffff;
   border-left: none;
   cursor: pointer;
 }
